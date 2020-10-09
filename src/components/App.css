@@ -1,0 +1,70 @@
+.app {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  min-height: 87%;
+  width: 650px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  color: white;
+  text-shadow: 0 0 4px #222222;
+  padding: 2%;
+}
+/* Search city */
+form {
+  margin: 10px;
+}
+input {
+  padding: 10px 5px;
+  margin: 5px;
+  border: none;
+  width: 65%;
+  font-size: 15px;
+}
+button {
+  background-color: gray;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 8px;
+  color: white;
+  font-size: 14px;
+  transition: 0.3s;
+}
+button:hover {
+  background-color: #333333;
+}
+/* Weather in searched city - main container */
+h2 {
+  font-size: 20px;
+  margin: 18px 0;
+}
+h3 {
+  margin: 18px 0;
+}
+p {
+  margin: 20px 15px;
+}
+/* Pic author */
+#photo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  font-size: 10px;
+  color: white;
+  text-shadow: 0 0 4px #222222;
+}
+#photo > a {
+  text-decoration: none;
+  color: white;
+}
+@media screen and (max-width: 1024px) {
+  .app {
+    width: 70%;
+  }
+}

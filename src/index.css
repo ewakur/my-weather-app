@@ -6,9 +6,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(./components/clouds.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ 
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+@media screen and (max-width: 1366px) {
+  body {
+    background-position: center;
+    background-size: auto;
+  }
 }
