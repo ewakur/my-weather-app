@@ -1,0 +1,14 @@
+{
+  "main.css": "/my-weather-app/static/css/main.5b3d4df5.chunk.css",
+  "main.js": "/my-weather-app/static/js/main.4580a80d.chunk.js",
+  "main.js.map": "/my-weather-app/static/js/main.4580a80d.chunk.js.map",
+  "runtime~main.js": "/my-weather-app/static/js/runtime~main.357c23fc.js",
+  "runtime~main.js.map": "/my-weather-app/static/js/runtime~main.357c23fc.js.map",
+  "static/js/2.b67fbdca.chunk.js": "/my-weather-app/static/js/2.b67fbdca.chunk.js",
+  "static/js/2.b67fbdca.chunk.js.map": "/my-weather-app/static/js/2.b67fbdca.chunk.js.map",
+  "index.html": "/my-weather-app/index.html",
+  "precache-manifest.e66dd0dd8c5218d05c67e22309bbb65f.js": "/my-weather-app/precache-manifest.e66dd0dd8c5218d05c67e22309bbb65f.js",
+  "service-worker.js": "/my-weather-app/service-worker.js",
+  "static/css/main.5b3d4df5.chunk.css.map": "/my-weather-app/static/css/main.5b3d4df5.chunk.css.map",
+  "static/media/index.css": "/my-weather-app/static/media/clouds.4406e267.jpg"
+}
